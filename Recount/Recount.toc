@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Recount
+## Notes: Damage, DPS, healing, combat statistics, segments, reporting, details, and class filtering for Vanilla WoW.
+## Author: Tim
+## Version: 2.0.2
+## SavedVariables: RecountDB
+
+Recount.lua
